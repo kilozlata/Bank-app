@@ -1,0 +1,11 @@
+*{padding: 0;margin:0;}
+
+#addFormView {
+  display: none;
+}
+#editView {
+  display: none;
+}
+#editFormView {
+  display: none;
+}
